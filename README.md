@@ -1,7 +1,7 @@
 # NumQuest
 숫자를 기억하고 맞추는 숫자 기억 게임
 
-## 사용 기술
+## 사용한 기술 스택
 <div style="display:flex">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
   <img alt="styledcomponents" src="https://img.shields.io/badge/styledcomponents-DB7093.svg?&style=for-the-badge&logo=styledcomponents&logoColor=black"/>
