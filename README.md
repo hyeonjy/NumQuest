@@ -7,7 +7,7 @@
   <img alt="styledcomponents" src="https://img.shields.io/badge/styledcomponents-DB7093.svg?&style=for-the-badge&logo=styledcomponents&logoColor=black"/>
 </div>
 
-# 📌 구현기술
+# 📌 구현기능
 <div style="display:flex;justify-content:center">
   <img src="https://velog.velcdn.com/images/hg024246/post/024b883b-e148-4a0d-bb3f-25afc7457829/image.png" width="500" />
 </div>
